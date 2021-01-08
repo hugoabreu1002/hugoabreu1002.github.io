@@ -1638,6 +1638,13 @@ input, select, textarea {
 			border-radius: 20%;
 		}
 
+		.image.profile img{
+			display: block;
+			width: 100%;
+			border-radius: 30%;
+			size: 70%;
+		}
+
 		.image.featured {
 			display: block;
 			width: 100%;
